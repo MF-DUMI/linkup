@@ -1,75 +1,58 @@
-# Nuxt 3 Minimal Starter
+# 📱 Threads Clone - PWA with Nuxt 3 & Vue.js 🚀
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Welcome to **Threads Clone** – a fully functional Progressive Web Application (PWA) built with **Nuxt 3**, **Vue.js**, **Tailwind CSS**, **Supabase**, and **Prisma**. This project is designed to provide a comprehensive guide to creating modern and scalable web applications, from setup to deployment. 
 
-## Setup
+![Threads Clone Banner](path-to-your-image.png)
 
-Make sure to install the dependencies:
+---
 
-```bash
-# npm
-npm install
+## 🚀 Key Features
 
-# pnpm
-pnpm install
+- **💻 Nuxt 3 & Vue.js**  
+  Utilize the latest features of **Nuxt 3** and **Vue.js 3** for a powerful and reactive application.
 
-# yarn
-yarn install
+- **🎨 Tailwind CSS**  
+  Design stunning, responsive interfaces with **Tailwind CSS**.
 
-# bun
-bun install
-```
+- **🔐 Supabase Authentication**  
+  Implement secure authentication with **Supabase** including GitHub login.
 
-## Development Server
+- **🗄️ Prisma Integration**  
+  Manage your database with **Prisma** and leverage **one-to-many** relations.
 
-Start the development server on `http://localhost:3000`:
+- **🌐 PWA Support**  
+  Make your application a Progressive Web App for offline access and improved performance.
 
-```bash
-# npm
-npm run dev
+- **📤 File Uploads**  
+  Handle file uploads and storage with **Supabase**.
 
-# pnpm
-pnpm run dev
+- **🔄 Real-Time Features**  
+  Add real-time capabilities like posts, likes, and more with **Supabase**.
 
-# yarn
-yarn dev
+---
 
-# bun
-bun run dev
-```
+## 🧰 Tech Stack
 
-## Production
+- **Framework**: Nuxt 3
+- **Frontend**: Vue.js, Tailwind CSS
+- **Backend**: Supabase, Prisma
+- **Database**: PostgreSQL
+- **PWA**: Progressive Web App Support
 
-Build the application for production:
+---
 
-```bash
-# npm
-npm run build
+## 🖼️ Screenshots
 
-# pnpm
-pnpm run build
+### 1️⃣ Main Layout & Index Page  
+![image](https://github.com/user-attachments/assets/f67e8267-d006-43e0-bf5d-4210a0ae43e5)
 
-# yarn
-yarn build
+### 2️⃣ Create Post Overlay  
+![image](https://github.com/user-attachments/assets/0a7aee96-1e72-4282-8dcb-3c399fe5142c)
 
-# bun
-bun run build
-```
+### 3️⃣ Auth Page & Menu Modal  
+![image](https://github.com/user-attachments/assets/019d46d3-ebad-45b4-8412-cfcc88bea2f1)
 
-Locally preview production build:
+### 5️⃣ PWA Functionality  
+![image](https://github.com/user-attachments/assets/64ff2b5d-e258-4817-bd7d-b740c7323b04)
 
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+---
