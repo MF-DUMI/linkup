@@ -51,6 +51,6 @@ Welcome to **LinkUp** – a fully functional Progressive Web Application (PWA) b
 ![image](https://github.com/user-attachments/assets/019d46d3-ebad-45b4-8412-cfcc88bea2f1)
 
 ### 5️⃣ PWA Functionality  
-![picture](https://github.com/user-attachments/assets/cfff3d54-f918-4ca9-81a4-4d82f67c431d)
+<img src="https://github.com/user-attachments/assets/cfff3d54-f918-4ca9-81a4-4d82f67c431d" alt="picture" width="400"/>
 
 ---
