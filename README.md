@@ -1,6 +1,6 @@
 # 📱 LinkUp - PWA with Nuxt 3 & Vue.js 🚀
 
-Welcome to **LinkUp*** – a fully functional Progressive Web Application (PWA) built with **Nuxt 3**, **Vue.js**, **Tailwind CSS**, **Supabase**, and **Prisma**. 
+Welcome to **LinkUp** – a fully functional Progressive Web Application (PWA) built with **Nuxt 3**, **Vue.js**, **Tailwind CSS**, **Supabase**, and **Prisma**.
 
 ---
 
@@ -51,6 +51,6 @@ Welcome to **LinkUp*** – a fully functional Progressive Web Application (PWA) 
 ![image](https://github.com/user-attachments/assets/019d46d3-ebad-45b4-8412-cfcc88bea2f1)
 
 ### 5️⃣ PWA Functionality  
-<img src="https://github.com/user-attachments/assets/64ff2b5d-e258-4817-bd7d-b740c7323b04" alt="PWA Functionality" width="400"/>
+![picture](https://github.com/user-attachments/assets/cfff3d54-f918-4ca9-81a4-4d82f67c431d)
 
 ---
