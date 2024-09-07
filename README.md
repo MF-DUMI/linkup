@@ -1,8 +1,6 @@
-# 📱 Threads Clone - PWA with Nuxt 3 & Vue.js 🚀
+# 📱 LinkUp - PWA with Nuxt 3 & Vue.js 🚀
 
-Welcome to **Threads Clone** – a fully functional Progressive Web Application (PWA) built with **Nuxt 3**, **Vue.js**, **Tailwind CSS**, **Supabase**, and **Prisma**. This project is designed to provide a comprehensive guide to creating modern and scalable web applications, from setup to deployment. 
-
-![Threads Clone Banner](path-to-your-image.png)
+Welcome to **LinkUp*** – a fully functional Progressive Web Application (PWA) built with **Nuxt 3**, **Vue.js**, **Tailwind CSS**, **Supabase**, and **Prisma**. 
 
 ---
 
@@ -53,6 +51,6 @@ Welcome to **Threads Clone** – a fully functional Progressive Web Application 
 ![image](https://github.com/user-attachments/assets/019d46d3-ebad-45b4-8412-cfcc88bea2f1)
 
 ### 5️⃣ PWA Functionality  
-![image](https://github.com/user-attachments/assets/64ff2b5d-e258-4817-bd7d-b740c7323b04)
+<img src="https://github.com/user-attachments/assets/64ff2b5d-e258-4817-bd7d-b740c7323b04" alt="PWA Functionality" width="400"/>
 
 ---
